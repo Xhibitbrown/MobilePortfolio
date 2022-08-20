@@ -7,7 +7,7 @@
 
 - Html
 - Css
-- Git and Github
+- git and Github
 
 
 
