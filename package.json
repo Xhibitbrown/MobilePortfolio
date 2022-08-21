@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^8.22.0",
-    "hint": "^2.0.0",
+    "hint": "^7.1.1",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
     "stylelint-csstree-validator": "^1.9.0",
@@ -118,5 +117,14 @@
     "word-wrap": "^1.2.3",
     "wrappy": "^1.0.2",
     "yocto-queue": "^0.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xhibitbrown/MobilePortfolio.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Xhibitbrown/MobilePortfolio/issues"
+  },
+  "homepage": "https://github.com/Xhibitbrown/MobilePortfolio#readme"
 }
